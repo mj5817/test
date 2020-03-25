@@ -1,0 +1,15 @@
+<svg width="320" height="240" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject x="0" y="0" width="320" height="240">
+      <html xmlns="http://www.w3.org/1999/xhtml">
+          <head>
+              <title>Video Sample</title>
+        </head>
+        <body>
+          <video width="320" height="240" controls="controls" autoplay="autoplay" muted="muted">
+            <source src="https://github.com/m0jt4b4/testLeakyImage/raw/master/6-step_example.webm" type="video/webm"/>
+            <source src="https://upload.wikimedia.org/wikipedia/commons/2/22/Volcano_Lava_Sample.webm" type="video/webm"/>
+        </video>
+        </body>
+      </html>
+    </foreignObject>
+</svg>
